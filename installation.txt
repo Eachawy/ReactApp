@@ -1,0 +1,15 @@
+npm init
+npm install --save react
+npm install --save react-dom
+npm install --save babel-core
+npm install --save babel-preset-es2015
+npm install --save babel-preset-react
+npm install --save babel-loader
+npm install --save webpack
+npm install -g webpack
+
+
+run ==>> webpack-dev-server
+
+
+
